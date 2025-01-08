@@ -1,0 +1,42 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient( 45deg, #0099F7, #F11712) fixed;
+    padding-left: 20px;
+    padding-right: 20px;
+  }.pirma_rinda{
+    font-family: cursive; 
+    text-align: center;
+  }.ievads{
+    font-family: cursive;
+    text-align: center;
+  }img{
+    width: 370px;
+    height: 400px;
+  }.poga{
+    text-align: center;
+  
+  }h2{
+    text-align: center;
+  }.poga2{
+    text-align: center;
+    padding-bottom: 50px;
+  }
+  .egle{
+    width: 45%;
+    text-align: right;
+    display: inline-block;
+  }
+  .santa{
+    width: 45%;
+    text-align: left;
+    display: inline-block;
+  }.poga3{
+    text-align: left;
+  }.rezultats{
+    text-align: center;
+    font-family: monospace;
+  }.komentars{
+    text-align: center;
+    font-family: monospace;
+  }
